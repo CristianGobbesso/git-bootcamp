@@ -23,4 +23,5 @@ git diff
 ## si se bloquea
 ```sh
 se apreta la Q y salis.
+
 ```
