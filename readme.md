@@ -35,3 +35,4 @@ se apreta la Q y salis.
 5. se hace un git commit -m "explicacion del cambio"
 6. se hace un git status.
 7. el git diff (se ve lo que se modifico en comparaciongit)
+8. git log --oneline (se utiliza para ver todos los commits que hice)
