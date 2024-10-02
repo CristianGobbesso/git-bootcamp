@@ -8,6 +8,7 @@ git init
 git status
 ```
 ## para que git controle los cambios de los archivos.(area de confirmacion = staging area)
+### (este paso se tiene que hacer cada vez que medificas un archivo y lo queres guardar.)
 ```sh
 git add readme.md
 git add <nombre-archivo> <nombre-archivo> (varios archivos)
@@ -25,3 +26,12 @@ git diff
 se apreta la Q y salis.
 
 ```
+## Resumen
+```sh
+1. se modifica el archivo
+2. se hace un git status
+3. se hace un git add <nombre del archivo>
+4. se hace un git status.
+5. se hace un git commit -m "explicacion del cambio"
+6. se hace un git status.
+7. el git diff (se ve lo que se modifico en comparaciongit)
