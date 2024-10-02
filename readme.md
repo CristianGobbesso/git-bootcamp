@@ -36,3 +36,4 @@ se apreta la Q y salis.
 6. se hace un git status.
 7. el git diff (se ve lo que se modifico en comparaciongit)
 8. git log --oneline (se utiliza para ver todos los commits que hice)
+9. git commit para corregir un --amend -m "corrijo el mensaje del commit" (sirve para modificar el mensaje que le pones al commit)
